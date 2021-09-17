@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdul Majid Arif
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Mobile App Development
