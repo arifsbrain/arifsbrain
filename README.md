@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Abdul Majid Arif
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Mobile App Development
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Flutter Development
