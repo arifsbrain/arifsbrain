@@ -2,7 +2,7 @@
 
 🏃🏻‍♂️ I’m currently working on Mobile Application Development (Flutter)
 
-🔥 I’m currently learning about Ethical Hacker
+🔥 I’m currently learning about Ethical Hacking
 
 Tools & Languages :
 
